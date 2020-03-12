@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Upload Image Menggunakan Library Volley</string>
+    <string name="choose_photo">Pilih Foto</string>
+    <string name="upload_photo">Upload Foto</string>
+</resources>
